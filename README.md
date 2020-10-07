@@ -1,6 +1,10 @@
 Project name:-Waste Eliminator
 Team name:-Software Chasers
 Team member:-Riddhi Nilawar;Shruti Tharmia;Jyoti Kharade;Priyanka Katore;
+Problem Statement:
+W-07 Website/App for collection, transportation, disposal and 
+segregation of waste product
+
 
 Abstract
 The tremendous increase in the population of the country has led to improper waste management in cities which results in increased pests and spread harmful diseases across the regions. Though proper measures are being taken to avoid wastage at the production level in industries, the waste generated from using such goods is not disposed of properly. People are unaware of the issues caused by their careless waste disposals. So keeping all this in mind, our project proposes a smart waste elimination web portal that will help people to segregate waste properly for better disposal and also tracks the vehicles carrying waste and also locate the dustbins nearby your accommodation. These will help the respective authorities to take necessary actions to reduce waste generation.
