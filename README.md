@@ -7,7 +7,7 @@ The tremendous increase in the population of the country has led to improper was
 In this web portal, interested people can apply as volunteers with the help of provided Google form link because we believe “It’s not just collection of waste, it’s a waste management”, who can help for handling the situation of waste management in their locality. Through email a letter of appreciation will be provided to the volunteers and certificates for the people participating in the events will be provided to encourage more participation. We also added blogs, slogans in different languages to spread awareness. There are some pages created with attractive interface to gain people’s attention towards waste elimination and make the world a better place to live in.
 
 
-
+This is a project that is completely designed from scratch. 
 The modules in the proposed web portal as follows
 
 1.	Elegant, interactive user interface –
