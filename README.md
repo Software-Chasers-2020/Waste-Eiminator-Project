@@ -7,22 +7,23 @@ The tremendous increase in the population of the country has led to improper was
 In this web portal, interested people can apply as volunteers with the help of provided Google form link because we believe “It’s not just collection of waste, it’s a waste management”, who can help for handling the situation of waste management in their locality. Through email a letter of appreciation will be provided to the volunteers and certificates for the people participating in the events will be provided to encourage more participation. We also added blogs, slogans in different languages to spread awareness. There are some pages created with attractive interface to gain people’s attention towards waste elimination and make the world a better place to live in.
 
 
-This is a project that is completely designed from scratch. 
+This is a project that is completely designed from scratch without using any template.
+
 The modules in the proposed web portal as follows
 
 1.	Elegant, interactive user interface –
 
-With the use of html, css, bootstrap and javascript we have created attractive user interface by adding animation part to it .We have also created blogs , slogans in different language for spreading awareness among people about waste management.
+With the use of html, css, bootstrap and javascript we have created attractive user interface by adding animation part to it .We have also created blogs , slogans in different language for spreading awareness among people about waste management. By clicking on the buttons saying swatcha bharat, clean India, Nirmal bharat we can get pages in the respective language. The entise website can be easily hadled and understood by anyone. 
 
 2.	Database  -
-To store/view/retrieve the details of IDs allocated to dustbins as well vehicles carrying waste we have used MySql database.
-With the help of database it is checked that which dustbin is allocate to which particular area. The database will store the data regarding when and where the dustbin are added, who has added that dustbin, etc.
+To store/view/retrieve the details of IDs allocated to dustbins. We have used MySql database.
+With the help of database it is checked that which dustbin is allocate to which particular area. The database will store the data regarding when and where the dustbin are added, who has added that dustbin, etc. The last cleaning date of the dustbins Of garbage bins is also mentioned in the database which will help the citizens to communicate with the government reagarding cleaning and maintaining hygiene. The record of different categories of waste like medical,organic., etc is also maintained in our database. The record of dustbins alloted that day,the day before andin that particular  week is also displayed just by pressing one button present in our admin panel. One can also print the record of a particular dustbin from our portal. The feature of updating the details of a particular dustbin is also provided for the convinience of the user. 
  
 3  . Tracking –
-Maintenance of a completely robust and efficient database to track all the information on waste generation and disposal by keeping track on dustbins allocated to area and vehicles carrying waste
-Managers of dumps and recycling factories can publish their possibilities or needs in acquiring a certain amount of waste for storing or recycling. Also volunteer’s will help the admin keep a track of the vehicles carrying garbage. The users will have to fill a google form. They will receive a link of the location of the garbage truck driver through mail merge.
+Maintenance of a completely robust and efficient database to track all the information on waste generation and disposal by keeping track of the vehicles carrying waste through your mobile phones by just a click is made easy through this portal. 
+Also volunteer’s will help the admin keep a track of the vehicles carrying garbage. The users will have to fill a google form. They will receive a link of the location of the garbage truck driver through mail merge. So it is one of the most efficient, portable and cost efficient way to do tracking. 
 
-4.	Search- We have included a search tab that will display the information of the dustbin line the last cleaned information when users enter the ID number of the particular dustbin located on it.
+4.	Search- We have included a search tab that will display the information of the dustbin about the last cleaned information when users enter the ID number of the particular dustbin located on it. It will also display all other details regarding that dusbin to make it easy for the user to get all the information in just one click. 
      
 5.  Online Portal to report problems and give suggestions on waste management.
 	If waste is not collected from dustbin on proper time the volunteers in that particular area can report that problem though mail. Also problems and improvements can be mentioned or suggested on our social media accounts for issues that are not being solved by our volunteers.
