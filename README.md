@@ -21,6 +21,7 @@ With the help of database it is checked that which dustbin is allocate to which 
 3  . Tracking –
 Maintenance of a completely robust and efficient database to track all the information on waste generation and disposal by keeping track on dustbins allocated to area and vehicles carrying waste
 Managers of dumps and recycling factories can publish their possibilities or needs in acquiring a certain amount of waste for storing or recycling. Also volunteer’s will help the admin keep a track of the vehicles carrying garbage. The users will have to fill a google form. They will receive a link of the location of the garbage truck driver through mail merge.
+
 4.	Search- We have included a search tab that will display the information of the dustbin line the last cleaned information when users enter the ID number of the particular dustbin located on it.
      
 5.  Online Portal to report problems and give suggestions on waste management.
