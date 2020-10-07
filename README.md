@@ -34,7 +34,9 @@ Also volunteer’s will help the admin keep a track of the vehicles carrying gar
 Blogs with attractive UI to spread awareness among people about waste management. Also blogs in different languages will make people understand better the importance of waste management.
 
 8.	Social Media handle-
-As the youth is the heart of our nation and as a most the people today use social media, we have also created our pages on various social media platforms to increase communication with the people and grab their attention.
+As the youth is the heart of our nation and as most of the people today use social media, we have also created our pages on various social media platforms to increase communication with the people and grab their attention.
+
+
 We have also created a web app for providing easy , quick and handy access to the people.
 
 
@@ -42,10 +44,11 @@ Future Scope –
 1. Using GPS one can keep track on locating the dustbins in different area.
 2. For vehicles carrying waste will be able to find shortest way to reach the allocated areas that will be time consuming.
 3. Also Raspberry Pi or arduino can be used for efficient tracking.
+4. We can also include a chatbot in our website for 24x7 to ensure easy communication with the users. 
 
 
 Benefits of the proposed system
-A major solution to all such problems is that the common people need an effective communication with the government, which is sort of problem in today’s scenario. Waste elimination web portal will help the users communicate with the government easily and enables them solve their problems regarding waste disposal. This portal provides an efficient portal for monitoring, collection, and disposal of wastes from each house and locality. Moreover, the data helps the authorities to take necessary actions beforehand. 
+A major solution to all such problems is that the common people need an effective communication with the government, which is sort of problem in today’s scenario. Waste elimination web portal will help the users communicate with the government easily and enables them solve their problems regarding waste disposal. This portal provides an efficient portal for monitoring, segregation, collection, and disposal of wastes from each house and locality. Moreover, the data helps the authorities to take necessary actions beforehand. 
 
 Development Platform: 
 For Database 		- mySQL
@@ -59,3 +62,5 @@ PLEASE CONSIDER CHECKING OUR HOSTED PROJECT, APP AS WELL AS THE RAR FILE.
 Admin login details:
 Username: admin
 Password:admin
+
+Ps: Website display on PC depends on the resolution of one's laptop or pc. 
